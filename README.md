@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Conboy-S
 - 👀 I’m interested in becoming a full stack developer.
-- 🌱 I’m currently learning Fro0nt End Development
+- 🌱 I’m currently learning Front End Development
 - 💞️ I’m looking to collaborate on basic web design.
 - 📫 How to reach me through my e-mail, conboy99@googlemail.com
 
